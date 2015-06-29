@@ -1,3 +1,4 @@
 # Github-Viewer
-Angular tutorial
-Pluralsight tutorial
+Angular Pluralsight tutorial
+
+Basic tutorial on controllers, services, mvc, and best practice.
